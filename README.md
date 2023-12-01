@@ -23,15 +23,3 @@
     <img align="center" alt="trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div><br/>
 
-### Desenvolvedora web
-
-Sou uma pessoa desenvolvedora web júnior com experiência prévia em gestão de equipes, metodologias ágeis e lean.
-
-Eu também sou estudante de Análise e desenvolvimento de sistemas e engenheira de produção.
-
-- 🌍 Moro em Recife, PE - Brasil
-- ❤️ Amo tecnologia e corrida 🏃
-- 🌱 Estou aprendendo linguagem de programação C#
-- 🤝 Estou aberta a colaborar em projetos influencie a vida das pessoas
-
-##
